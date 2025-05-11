@@ -3,7 +3,7 @@
 **Food Munch** is a static, fully responsive restaurant website built with **HTML**, **CSS**, and **Bootstrap**. It offers a clean and modern layout to showcase food offerings and key services for a restaurant or food delivery business.
 
 ## 🌐 Live Demo
-[🔗 View Live Website](https://yourusername.github.io/food-munch/)  
+[🔗 View Live Website](https://sandeepmothe.github.io/Responsive-Food-Munch-Website/food%20munch.html) 
 
 ## 📱 Responsive Design
 - Fully mobile-friendly using Bootstrap's grid system
